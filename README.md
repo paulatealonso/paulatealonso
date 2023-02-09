@@ -49,19 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/paulatealonso/paulatealonso/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fazleza4tj4icryeko3on252sa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=7" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
