@@ -52,4 +52,6 @@
 <div align="left">
 </div>
 
+<img src="https://www.codewars.com/users/paulatealonso/badges/large" alt="Codewars"/>
+
 ###
