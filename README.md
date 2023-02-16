@@ -1,3 +1,10 @@
+
+
+
+
+<br>
+<br>
+
 <h1 align="left">Hey ✨ I'm Paula ✨</h1>
 
 ###
@@ -13,6 +20,8 @@
 <p align="left">Learning 👩‍💻</p>
 
 ###
+
+<br>
 
 <h2 align="left">I code with</h2>
 
@@ -34,6 +43,8 @@
 </div>
 
 ###
+
+<br>
 
 <h2 align="left">I'm learning</h2>
 
