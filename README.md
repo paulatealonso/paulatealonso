@@ -1,8 +1,4 @@
 
-
-
-
-<br>
 <br>
 
 <h1 align="left">Hey ✨ I'm Paula ✨</h1>
