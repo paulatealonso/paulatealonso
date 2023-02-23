@@ -70,8 +70,8 @@
 ###
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=pabloquintanadev&show_icons=true&theme=radical" />
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloquintanadev&theme=radical&layout=compact" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=paulatealonso&show_icons=true&theme=radical" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatealonso&theme=radical&layout=compact" />
 </div>
 
 <img src="https://www.codewars.com/users/paulatealonso/badges/large" alt="Codewars"/>
