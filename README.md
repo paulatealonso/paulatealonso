@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Learning 👩‍💻</p>
+<p align="left"> Front end developer 👩‍💻</p>
 
 ###
 
