@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm 23 years old, and I'm from Spain 💃 specialying in databases and passionate about security </p>
+<p align="left">I'm 23 years old, and I'm from Spain 💃 specializing in databases and passionate about security | Red Team </p>
 
 ###
 
