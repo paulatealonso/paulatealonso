@@ -13,7 +13,7 @@
 
 ###
 
-🔭 I’m currently working on **Amadeus IT Gruop** and also studying a degree in Multiplatform Application Development
+🔭 I’m currently working on **Amadeus IT Group** and also studying a degree in Multiplatform Application Development
 
 ###
 
